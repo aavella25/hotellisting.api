@@ -85,7 +85,6 @@ namespace hotellisting.api.Controllers
 
             hotels.Remove(ExistingHotel);
             return NoContent();
-
         }
     }
 }
